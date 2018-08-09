@@ -4,27 +4,30 @@ Checklist for design
 ## Project kick-off
 - [ ] Business requirements
 - [ ] Use-cases
-- [ ] Target customer
+- [ ] Target customer(s)
+- [ ] Preliminary research
 
 ## Documentation
 - [ ] Design goals
 - [ ] Personas / job stories
 - [ ] User flows
+- [ ] Components & patterns
+- [ ] Interactions
+- [ ] States
+- - [ ] Nothing
+- - [ ] 0/none/empty
+- - [ ] One
+- - [ ] Some
+- - [ ] Too many
+- - [ ] Loading/transitions
+- - [ ] Incorrect
+- - [ ] Correct
+- - [ ] Complete
 
 ## Testing
 - [ ] Manual
 - [ ] User testing / acceptance
-
-## States
-- [ ] Nothing
-- [ ] 0/none/empty
-- [ ] One
-- [ ] Some
-- [ ] Too many
-- [ ] Loading/transitions
-- [ ] Incorrect
-- [ ] Correct
-- [ ] Complete
+- [ ] Accessibility
 
 
 
