@@ -1,15 +1,17 @@
-# design-playbook
-Checklist for design
+# design-checklist
+Nena's checklist for design
 
 ## Project kick-off
 - [ ] Business requirements
 - [ ] Use-cases
 - [ ] Target customer(s)
 - [ ] Preliminary research
+- [ ] Constraints and schedule
 
 ## Documentation
 - [ ] Design goals
 - [ ] Personas / job stories
+- [ ] Design decisions and rationale
 - [ ] User flows
 - [ ] Components & patterns
 - [ ] Interactions
@@ -32,5 +34,5 @@ Checklist for design
 
 
 ### References:
+https://www.uxpin.com/studio/blog/write-good-product-requirements-document/
 https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85
-
