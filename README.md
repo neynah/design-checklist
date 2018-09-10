@@ -7,6 +7,7 @@ Nena's checklist for design
 - [ ] Target customer(s)
 - [ ] Preliminary research
 - [ ] Constraints and schedule
+- [ ] Competitive landscape
 
 ## Documentation
 - [ ] Design goals
@@ -28,11 +29,10 @@ Nena's checklist for design
 
 ## Testing
 - [ ] Manual
-- [ ] User testing / acceptance
-- [ ] Accessibility
-
-
+- [ ] User / acceptance testing
+- [ ] Accessibility: contrast, keyboard access, aria labels
+- [ ] Prototype
 
 ### References:
-https://www.uxpin.com/studio/blog/write-good-product-requirements-document/
-https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85
+- https://www.uxpin.com/studio/blog/write-good-product-requirements-document/
+- https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85
