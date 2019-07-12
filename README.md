@@ -16,6 +16,8 @@ Why are we investing resources into this product in the first place?
 ## Design requirements
 What do we need design involvement?
 - [ ] Design goals: What value will the design deliver for the product?
+- - [ ] How does this fit into road map of the product experience?
+- - [ ] What are the priorities? What must we absolutely deliver, and what things are negotiable?
 - [ ] User requirements: What are the problems we're trying to solve from a user perspective? What should the user be able to achieve? 
 - [ ] User research plan: What have we validated, what will we still need to validate?
 
@@ -45,6 +47,8 @@ What do you need to do and how will you communicate to your collaborators?
 - [ ] User / acceptance testing: Plan tasks and watch other people use the product. Prototypes or production.
 - [ ] Accessibility: contrast, keyboard access, aria labels
 
-### References:
+### References and recommended reading:
 - https://www.uxpin.com/studio/blog/write-good-product-requirements-document/
 - https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85
+- https://productcoalition.com/product-roadmaps-love-and-hate-and-hate-1a750b263d15
+- https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/
