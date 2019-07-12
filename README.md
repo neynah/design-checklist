@@ -1,20 +1,31 @@
 # design-checklist
-Nena's checklist for design
+Nena's checklist for designing products
 
-## Project kick-off
+## Product requirements kick-off
+Why are we investing resources into this product in the first place?
 - [ ] Business requirements
-- [ ] Use-cases
-- [ ] Target customer(s)
-- [ ] Preliminary research
-- [ ] Constraints and schedule
-- [ ] Competitive landscape
+- - [ ] Problems and opportunities
+- - [ ] Goals and success metrics
+- [ ] User research
+- - [ ] Target users: Who are the users we are focused on and why?
+- - [ ] Job stories: What are the users trying to accomplish?
+- - [ ] Current state: How are users currently accomplishing their goals today?
+- [ ] Constraints: Resources, time, technical capabilities, etc.
+- [ ] Competitive landscape: What are others doing?
 
-## Documentation
-- [ ] Design goals
-- [ ] Personas / job stories
-- [ ] Design decisions and rationale
+## Design requirements
+What do we need design involvement?
+- [ ] Design goals: What value will the design deliver for the product?
+- [ ] User requirements: What are the problems we're trying to solve from a user perspective? What should the user be able to achieve? 
+- [ ] User research plan: What have we validated, what will we still need to validate?
+
+## Design and documentation
+What do you need to do and how will you communicate to your collaborators?
+- [ ] Explorations
+- [ ] Design decisions and rationale around trade-offs
 - [ ] User flows
 - [ ] Components & patterns
+- [ ] Prototypes
 - [ ] Interactions
 - [ ] States
 - - [ ] Nothing
@@ -26,12 +37,13 @@ Nena's checklist for design
 - - [ ] Incorrect
 - - [ ] Correct
 - - [ ] Complete
+- - [ ] Logged in or out
+- - [ ] Permissions or no permissions
 
 ## Testing
-- [ ] Manual
-- [ ] User / acceptance testing
+- [ ] Manual: Use the product yourself and see if it functions as you'd expect
+- [ ] User / acceptance testing: Plan tasks and watch other people use the product. Prototypes or production.
 - [ ] Accessibility: contrast, keyboard access, aria labels
-- [ ] Prototype
 
 ### References:
 - https://www.uxpin.com/studio/blog/write-good-product-requirements-document/
