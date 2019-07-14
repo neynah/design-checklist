@@ -45,7 +45,12 @@ What do you need to do and how will you communicate to your collaborators?
 ## Testing
 - [ ] Manual: Use the product yourself and see if it functions as you'd expect
 - [ ] User / acceptance testing: Plan tasks and watch other people use the product. Prototypes or production.
-- [ ] Accessibility: contrast, keyboard access, aria labels
+- [ ] Accessibility:
+- - [ ] Color contrast
+- - [ ] Font sizes
+- - [ ] Focus styles
+- - [ ] ARIA labels
+- - [ ] Keyboard access
 
 ### References and recommended reading:
 - https://www.uxpin.com/studio/blog/write-good-product-requirements-document/
